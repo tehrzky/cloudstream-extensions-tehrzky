@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DramaCool",
+    "version": 1,
+    "file": "https://yourusername.github.io/cloudstream-extensions-yourname/plugins/dramacool.jar",
+    "updated": 1700000000000,
+    "description": "Watch Asian dramas and movies from DramaCool.com.tr",
+    "requires": 3.0
+  }
+]
